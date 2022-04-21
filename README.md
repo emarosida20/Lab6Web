@@ -1,14 +1,14 @@
 # Lab6Web
 
-Nama : Ema Rosida
+**Nama : Ema Rosida**
 
-NIM: 312010062
+**NIM: 312010062**
 
-Kelas: TI.20.D1
+**Kelas: TI.20.D1**
 
-Mata Kuliah: Pemrograman Web
+**Mata Kuliah: Pemrograman Web**
 
-Praktikum 6: Web Framework
+**Praktikum 6: Web Framework**
 
 1. Buat folder baru dengan nama lab6_css_framework, lalu buat struktur dasar dari dokumen HTML. Kemudian buatlah layout web sederhana menggunakan css frameword (Twitter Bootsrtap).
 - Buka website https://getbootstrap.com, lalu klik pada bagian documentation, setelah itu copy code pada Starter template.
